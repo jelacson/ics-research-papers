@@ -20,7 +20,7 @@ li,
 td,
 body {
    font-size: 11pt;
-   font-family: "Georgia", "Times New Roman", "Arial", "Helvetica", sans-serif;
+   font-family: "Optima", "Georgia", "Times New Roman", "Arial", "Helvetica", sans-serif;
    background: #FFFFFF;
    color: #333333;
    margin-left: 10%;
@@ -60,4 +60,30 @@ body {
 
 #uplb-ics {
    color: maroon;
+}
+
+.pub-info {
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+#pub-title {
+   font-family: "Optima", "Georgia", "Times New Roman", "Arial", "Helvetica", sans-serif;
+   font-size: 20px;
+   font-weight: 600;
+   margin-bottom: 5;
+}
+
+#pub-author {
+   font-family: "Avenir", "Optima", "Georgia", "Times New Roman", "Arial", "Helvetica", sans-serif;
+   font-weight: 400;
+   margin-top: 0;
+   margin-bottom: 5;
+}
+
+#pub-journ {
+   font-family: "Avenir", "Optima", "Georgia", "Times New Roman", "Arial", "Helvetica", sans-serif;
+   font-weight: 400;
+   margin-top: 0;
+   margin-bottom: 5;
 }
